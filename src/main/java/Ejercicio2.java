@@ -1,28 +1,27 @@
 import java.util.Scanner;
 
 public class Ejercicio2 {
-    //Modificar el algoritmo anterior para mostrar un mensaje según la temperatura:
-    //
-    //Temperatura
-    //
-    //Mensaje
-    //
-    //t < 2
-    //
-    //Riesgo de hielo
-    //
-    //2 ≤ t < 15
-    //
-    //Hace frío
-    //
-    //15 ≤ t < 30
-    //
-    //Buena temperatura
-    //
-    //t ≥ 30
-    //
-    //Demasiado calor
+    /*Modificar el algoritmo anterior para mostrar un mensaje según la temperatura:
 
+Temperatura
+
+Mensaje
+
+t < 2
+
+Riesgo de hielo
+
+2 ≤ t < 15
+
+Hace frío
+
+15 ≤ t < 30
+
+Buena temperatura
+
+t ≥ 30
+
+Demasiado calor*/
     public static void main(String[] args) {
         System.out.println("Introduzca la temperatura:");
         Scanner sc = new Scanner(System.in);
